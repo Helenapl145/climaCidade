@@ -27,7 +27,7 @@
 
 -CSS <br>
 -HTML <br>
--JavaScrip <br>
+-JavaScript <br>
 -API Weather <br>
 -Github <br>
 
